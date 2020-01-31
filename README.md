@@ -2,8 +2,9 @@
 
 MATLAB framework to read datasets, run baseline algorithm, and write results to file.
 
-## LOCATA data:
-https://doi.org/10.5281/zenodo.3630470
+## Final release of the LOCATA dev & eval datasets
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3630471.svg)](https://doi.org/10.5281/zenodo.3630471)
 
 ## See also: LOCATA Evaluation Framework
 
